@@ -14,7 +14,6 @@ const AboutPage = () => {
         multi-page experience with working navigation and a 404 page.
       </p>
       <Link to="/" className="btn">Back to Home</Link>
-        Back to Home
     </div>
   );
 };

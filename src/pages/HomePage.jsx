@@ -7,7 +7,6 @@ const HomePage = () => {
       <h1 className="text-4xl font-bold">Countries of the World</h1>
       <p>Browse the world's countries and build your travel bucket list.</p>
       <Link to="/countries" className="btn btn-primary">Browse Countries</Link>
-        Browse Countries
     </div>
   );
 };
